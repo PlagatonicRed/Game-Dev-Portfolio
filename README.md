@@ -1,8 +1,10 @@
 # Portfolio
-This is my porfolio
+This is my porfolio I Plan on sprucing it up a little bit.
 
 # Description
 
-# Header 
+## Games
 
-## UMMM
+I plan on adding different games and clips from the ghames I am currently working on and the games that I have previously finished
+
+### What does this do?
