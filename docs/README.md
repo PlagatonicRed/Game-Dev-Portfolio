@@ -9,3 +9,5 @@ I plan on adding different games and clips from the ghames I am currently workin
 
 
 ##### how far can we go?
+
+![funni gif](https://github.com/[PlagatonicRed]/[Portfolio]/blob/[docs/assets/images]/Sliding-min.gif?raw=true)
