@@ -1,5 +1,9 @@
 # Portfolio
-This is my porfolio I Plan on sprucing it up a little bit.
+//TODO Add both unreal games to the portfolio
+//TODO Keep this up to date on my current projects
+
+//? maybe add the gamejam games (not my best work)
+//TODO add work experience at spartasoft studio
 
 ## Games
 
