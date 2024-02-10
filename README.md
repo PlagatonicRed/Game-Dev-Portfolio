@@ -39,6 +39,11 @@ An interactive solar system simulater that accurately models all of the planets 
 ## small Team
 
 ## Large Team
+### SpartaSoft Studio
+#### Market Mayhem
+
+Developed the character controller; working along side and communication with design team for fluid and fun player movement.
+[![66y2Op](https://github.com/PlagatonicRed/Portfolio/assets/144390798/45069d88-906a-4a75-a159-717cc8a6e7e1)](https://spartasoftstudio.itch.io/market-mayhem)
 ## Game Jam Games
 
 
