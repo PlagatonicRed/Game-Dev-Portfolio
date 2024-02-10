@@ -15,13 +15,15 @@ I plan on adding different games and clips from the ghames I am currently workin
 ##### how far can we go?
 
 # Unreal Projects
+
 ## Movement System
+
 ![Sliding-min](https://github.com/PlagatonicRed/Portfolio/assets/144390798/c977faec-f65d-48cb-9e76-0f2324615def)
 ![Dashing_1-min](https://github.com/PlagatonicRed/Portfolio/assets/144390798/a2ee228f-d766-4e90-a3b5-4e04217c484a)
 ![Sliding-min](https://github.com/PlagatonicRed/Portfolio/assets/144390798/d71f71e7-7720-4106-9c65-7139719e48be)
 ![Grappling even further optimized](https://github.com/PlagatonicRed/Portfolio/assets/144390798/bce2f308-d2ca-4ee7-9e80-56f6167091ec)
 
-# Aim Trainer
+## Aim Trainer
 
 
 # Unity Projects
