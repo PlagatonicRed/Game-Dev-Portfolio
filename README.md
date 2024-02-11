@@ -39,6 +39,7 @@ An interactive solar system simulater that accurately models all of the planets 
 
 ## Factory Game (in development)
 This game is a solo endevor to make a 3D factory game in the same vein as satisfactory but with a couple twists added in.
+Right now the game is an extremely early build with basic functionality
 
 ![Screenshot 2024-02-11 153525](https://github.com/PlagatonicRed/Portfolio/assets/144390798/cdd81e24-fd99-4c4d-a9b2-246a7b023954)
 ![Functioning belt to storage](https://github.com/PlagatonicRed/Portfolio/assets/144390798/0a017ed2-5a65-40e3-80a6-6a27e3b4b963)
