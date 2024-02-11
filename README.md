@@ -45,6 +45,10 @@ An interactive solar system simulater that accurately models all of the planets 
 Developed the character controller; working along side and communication with design team for fluid and fun player movement.
 [![66y2Op](https://github.com/PlagatonicRed/Portfolio/assets/144390798/45069d88-906a-4a75-a159-717cc8a6e7e1)](https://spartasoftstudio.itch.io/market-mayhem)
 ## Game Jam Games
+### Pandora's Descent
+
+[Pandora's Descent](https://plagatonicred.itch.io/pandoras-descent) was made for a 48 hour game jam, I was responsible for the player controller and the entirety of the 3D intro scene. 
+This was also my first time working on any game in 2D.
 
 
 ## Random text to see how this works
