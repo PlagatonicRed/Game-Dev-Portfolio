@@ -54,6 +54,8 @@ Right now the game is an extremely early build with basic functionality
 ## Market Mayhem
 
 Developed the character controller; working along side and communication with design team for fluid and fun player movement.
+
+([Click Here](https://spartasoftstudio.itch.io/market-mayhem)) or on the image below to go to the itch page
 [![66y2Op](https://github.com/PlagatonicRed/Portfolio/assets/144390798/45069d88-906a-4a75-a159-717cc8a6e7e1)](https://spartasoftstudio.itch.io/market-mayhem)
 ## Game Jam Games:
 ## Pandora's Descent
