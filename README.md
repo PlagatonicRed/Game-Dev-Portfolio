@@ -37,6 +37,15 @@ Made this in 24 testing skills
 An interactive solar system simulater that accurately models all of the planets and major moons of the solar system using newtonian physics with distance scaled down by a factor of 1E5
 [![SolTitleImage](https://github.com/PlagatonicRed/Portfolio/assets/144390798/0f6c6596-24fa-41c7-92d0-f1917006924c)](https://plagatonicred.itch.io/welcome-to-sol)
 
+## Factory Game (in development)
+This game is a solo endevor to make a 3D factory game in the same vein as satisfactory but with a couple twists added in.
+
+![Screenshot 2024-02-11 153525](https://github.com/PlagatonicRed/Portfolio/assets/144390798/cdd81e24-fd99-4c4d-a9b2-246a7b023954)
+![Functioning belt to storage](https://github.com/PlagatonicRed/Portfolio/assets/144390798/0a017ed2-5a65-40e3-80a6-6a27e3b4b963)
+![Inventory](https://github.com/PlagatonicRed/Portfolio/assets/144390798/42a68dc6-6012-4fd7-95b4-80acb0d2d517)
+![Research](https://github.com/PlagatonicRed/Portfolio/assets/144390798/09e733aa-f3b9-4611-b614-c1b571c182ee)
+![Assembler menu](https://github.com/PlagatonicRed/Portfolio/assets/144390798/b3b37c91-d2c0-48a3-aee1-c46c80c739e5)
+
 ## Large Team:
 ## SpartaSoft Studio:
 ## Market Mayhem
