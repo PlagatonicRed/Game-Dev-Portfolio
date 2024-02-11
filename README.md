@@ -35,6 +35,7 @@ Made this in 24 testing skills
 ## Solo:
 ## Welcome to Sol 
 An interactive solar system simulater that accurately models all of the planets and major moons of the solar system using newtonian physics with distance scaled down by a factor of 1E5
+([Click Here](https://plagatonicred.itch.io/welcome-to-sol)) or on the image below to go to the itch page
 [![SolTitleImage](https://github.com/PlagatonicRed/Portfolio/assets/144390798/0f6c6596-24fa-41c7-92d0-f1917006924c)](https://plagatonicred.itch.io/welcome-to-sol)
 
 ## Factory Game (in development)
