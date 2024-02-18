@@ -63,6 +63,9 @@ Developed the character controller; working along side and communication with de
 [Pandora's Descent](https://plagatonicred.itch.io/pandoras-descent) was made for a 48 hour game jam, I was responsible for the player controller and the entirety of the 3D intro scene. 
 This was also my first time working on any game in 2D.
 
+## Mentally Drained
+[Mentally Drained](https://plagatonicred.itch.io/mentally-drained) was also made for another 48 hour game jam, this time I was the sole programmer on the team and was responsible for all of the programming in the game.
+
 
 ## Random text to see how this works
 
