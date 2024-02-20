@@ -57,9 +57,3 @@ This was also my first time working on any game in 2D.
 
 ## Mentally Drained
 [Mentally Drained](https://plagatonicred.itch.io/mentally-drained) was also made for another 48 hour game jam, this time I was the sole programmer on the team and was responsible for all of the programming in the game.
-
-
-## Random text to see how this works
-
-So i dog was in the tree whilw ewalking in the park if I really need chidlren then I will try to child need want orange baby man muncher loser idiot man muncher orange need orange i want you want orange give me orange give me now 
-Lets see how adding a newline character influences the flow of the text on the website that I am currently making a typing for at the current moment currenty. I am probably going to head to the gym after this, going to hit legs, that will not be fun but a man has to do what a man has to do in order to stay in shape in these trying times, and if that includes training glutes then I will do what it takes.
