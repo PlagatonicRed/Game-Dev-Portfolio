@@ -39,6 +39,10 @@ An interactive solar system simulater that accurately models all of the planets 
 ([Click Here](https://plagatonicred.itch.io/welcome-to-sol)) or on the image below to go to the itch page
 [![SolTitleImage](https://github.com/PlagatonicRed/Portfolio/assets/144390798/0f6c6596-24fa-41c7-92d0-f1917006924c)](https://plagatonicred.itch.io/welcome-to-sol)
 
+## 2D Shooter 2 Electric Boogaloo
+This is a game I made for the introductory Game Design Class, CAS 117 at MSU I don't have a nice cover page for it but I like how the game turned out
+([Click Here](https://plagatonicred.itch.io/2d-shooter-two-electric-boogaloo)) or on the image below to go to the itch page
+[![Screenshot 2024-02-19 191239](https://github.com/PlagatonicRed/Portfolio/assets/144390798/8cd17511-5036-4501-ac00-6fffed15f84a)](https://plagatonicred.itch.io/2d-shooter-two-electric-boogaloo)
 ## Factory Game (in development)
 This game is a solo endevor to make a 3D factory game in the same vein as satisfactory but with a couple twists added in.
 Right now the game is an extremely early build with basic functionality
