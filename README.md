@@ -4,7 +4,7 @@
 # Solo Unreal Projects
 
 ## Movement System
-I wanted to play around with the unreal engine and I made this (Change text Later)
+This is a little movement system I made in unreal engine when I first started getting into game design
 
 ![Sliding-min](https://github.com/PlagatonicRed/Portfolio/assets/144390798/c977faec-f65d-48cb-9e76-0f2324615def)
 ![Dashing_1-min](https://github.com/PlagatonicRed/Portfolio/assets/144390798/a2ee228f-d766-4e90-a3b5-4e04217c484a)
@@ -12,7 +12,7 @@ I wanted to play around with the unreal engine and I made this (Change text Late
 ![Grappling even further optimized](https://github.com/PlagatonicRed/Portfolio/assets/144390798/bce2f308-d2ca-4ee7-9e80-56f6167091ec)
 
 ## Aim Trainer
-Made this in 24 testing skills
+This is my first ever project; an aim trainer that I made in a day in unreal
 
 ![Distance](https://github.com/PlagatonicRed/Portfolio/assets/144390798/c52ea8ca-ca65-448c-890b-3f5828c44628)
 ![Speed](https://github.com/PlagatonicRed/Portfolio/assets/144390798/43786bc8-f825-455d-bf09-52558531ee44)
