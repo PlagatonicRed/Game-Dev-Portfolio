@@ -12,7 +12,7 @@ This is a little movement system I made in unreal engine when I first started ge
 ![Grappling even further optimized](https://github.com/PlagatonicRed/Portfolio/assets/144390798/bce2f308-d2ca-4ee7-9e80-56f6167091ec)
 
 ## Aim Trainer
-This is my first ever project; an aim trainer that I made in a day in unreal
+This is my first ever project; an aim trainer that I challenged myself to complete in 24 hours
 
 ![Distance](https://github.com/PlagatonicRed/Portfolio/assets/144390798/c52ea8ca-ca65-448c-890b-3f5828c44628)
 ![Speed](https://github.com/PlagatonicRed/Portfolio/assets/144390798/43786bc8-f825-455d-bf09-52558531ee44)
