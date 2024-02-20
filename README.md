@@ -3,7 +3,7 @@
 # Experience 
 - Worked with Unreal engine for about 2 months and am familiar with the program and am familiar with c++ 
 - Very familiar with unity and c# and have been working with it for most of my time as a game Developer
-- Have done 3 gameJams
+- Participated in several local game jams
 - Currently a part of SpartaSoft Studio's programmer team and was also a programming member last semester
 - Curretnly working on a solo project: Factory Game (the name is a work in progress)
 # Solo Unreal Projects
