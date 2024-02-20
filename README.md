@@ -1,6 +1,6 @@
 # Portfolio
 
-#Experience 
+# Experience 
 - Worked with Unreal engine for about 2 months and am familiar with the program and am familiar with c++ 
 - Very familiar with unity and c# and have been working with it for most of my time as a game Developer
 - Have done 3 gameJams
