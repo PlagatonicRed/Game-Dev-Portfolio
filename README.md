@@ -1,19 +1,6 @@
 # Portfolio
-//TODO Add both unreal games to the portfolio
-//TODO Keep this up to date on my current projects
 
-//? maybe add the gamejam games (not my best work)
-//TODO add work experience at spartasoft studio
-
-## Games
-
-I plan on adding different games and clips from the ghames I am currently working on and the games that I have previously finished
-
-### What does this do?
-
-
-##### how far can we go?
-
+#Experience 
 # Solo Unreal Projects
 
 ## Movement System
@@ -41,8 +28,8 @@ An interactive solar system simulater that accurately models all of the planets 
 
 ## 2D Shooter 2 Electric Boogaloo
 This is a game I made for the introductory Game Design Class, CAS 117 at MSU I don't have a nice cover page for it but I like how the game turned out
-([Click Here](https://plagatonicred.itch.io/2d-shooter-two-electric-boogaloo)) or on the image below to go to the itch page
 
+([Click Here](https://plagatonicred.itch.io/2d-shooter-two-electric-boogaloo)) or on the image below to go to the itch page
 [![Screenshot 2024-02-19 191239](https://github.com/PlagatonicRed/Portfolio/assets/144390798/8cd17511-5036-4501-ac00-6fffed15f84a)](https://plagatonicred.itch.io/2d-shooter-two-electric-boogaloo)
 ## Factory Game (in development)
 This game is a solo endevor to make a 3D factory game in the same vein as satisfactory but with a couple twists added in.
