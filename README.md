@@ -28,13 +28,13 @@ This is my first ever project; an aim trainer that I challenged myself to comple
 ## Welcome to Sol 
 An interactive solar system simulater that accurately models all of the planets and major moons of the solar system using newtonian physics with distance scaled down by a factor of 1E5
 
-I've always liked space and messing around with space similuations, so making my own over the course of a week was a really enjoyable experience.
+I've always liked space and messing around with space simulations, so making my own over the course of a week was a really enjoyable experience.
 
 ([Click Here](https://plagatonicred.itch.io/welcome-to-sol)) or on the image below to go to the itch page
 [![SolTitleImage](https://github.com/PlagatonicRed/Portfolio/assets/144390798/0f6c6596-24fa-41c7-92d0-f1917006924c)](https://plagatonicred.itch.io/welcome-to-sol)
 
 ## 2D Shooter 2 Electric Boogaloo
-This is a game I made for the introductory Game Design Class, CAS 117 at MSU I don't have a nice cover page for it but I like how the game turned out
+This is a game I made for the introductory Game Design Class, CAS 117 at MSU. I don't have a nice cover page for it but I like how the game turned out
 
 ([Click Here](https://plagatonicred.itch.io/2d-shooter-two-electric-boogaloo)) or on the image below to go to the itch page
 [![Screenshot 2024-02-19 191239](https://github.com/PlagatonicRed/Portfolio/assets/144390798/8cd17511-5036-4501-ac00-6fffed15f84a)](https://plagatonicred.itch.io/2d-shooter-two-electric-boogaloo)
@@ -52,7 +52,7 @@ Right now the game is an extremely early build with basic functionality
 ## SpartaSoft Studio:
 ## Market Mayhem
 
-Developed the character controller, working along side and communicated with a design team for fluid and fun player movement.
+Developed the character controller and movement systems, working along side and communicated with a design team for fluid and fun player movement.
 
 ([Click Here](https://spartasoftstudio.itch.io/market-mayhem)) or on the image below to go to the itch page
 [![66y2Op](https://github.com/PlagatonicRed/Portfolio/assets/144390798/45069d88-906a-4a75-a159-717cc8a6e7e1)](https://spartasoftstudio.itch.io/market-mayhem)
