@@ -9,7 +9,7 @@
 # Solo Unreal Projects
 
 ## Movement System
-This is a little movement system I made in unreal engine when I first started getting into game design
+This is a little movement system I made in unreal engine when I first started getting into game programming
 
 ![Sliding-min](https://github.com/PlagatonicRed/Portfolio/assets/144390798/c977faec-f65d-48cb-9e76-0f2324615def)
 ![Dashing_1-min](https://github.com/PlagatonicRed/Portfolio/assets/144390798/a2ee228f-d766-4e90-a3b5-4e04217c484a)
@@ -52,7 +52,7 @@ Right now the game is an extremely early build with basic functionality
 ## SpartaSoft Studio:
 ## Market Mayhem
 
-Developed the character controller; working along side and communication with design team for fluid and fun player movement.
+Developed the character controller, working along side and communicated with a design team for fluid and fun player movement.
 
 ([Click Here](https://spartasoftstudio.itch.io/market-mayhem)) or on the image below to go to the itch page
 [![66y2Op](https://github.com/PlagatonicRed/Portfolio/assets/144390798/45069d88-906a-4a75-a159-717cc8a6e7e1)](https://spartasoftstudio.itch.io/market-mayhem)
@@ -63,4 +63,4 @@ Developed the character controller; working along side and communication with de
 This was also my first time working on any game in 2D.
 
 ## Mentally Drained
-[Mentally Drained](https://plagatonicred.itch.io/mentally-drained) was also made for another 48 hour game jam, this time I was the sole programmer on the team and was responsible for all of the programming in the game.
+[Mentally Drained](https://plagatonicred.itch.io/mentally-drained) was also made for another 48 hour game jam, this time I was the sole programmer on the team and was responsible for a majority of the programming in the game.
