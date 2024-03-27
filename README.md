@@ -64,3 +64,6 @@ This was also my first time working on any game in 2D.
 
 ## Mentally Drained
 [Mentally Drained](https://plagatonicred.itch.io/mentally-drained) was also made for another 48 hour game jam, this time I was the sole programmer on the team and was responsible for a majority of the programming in the game.
+
+## Apotheo.sys
+Made for the Spartasoft March 2024 48 hour game jam
