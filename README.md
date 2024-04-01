@@ -68,6 +68,6 @@ This was also my first time working on any game in 2D.
 ## Apotheo.sys
 Made for the Spartasoft March 2024 48 hour game jam, I was mainly responsible for creating the gameplay logic (text based interaction system) but I also implemented a 3D object display for when the player
 picks up specific items.
-I'm particularly proud of the substring/auto finish detection that I also included in the game that allows the player to only type in part of a command and still have it function
+I'm particularly proud of the substring/auto finish detection that I also included in the game that allows the player to only type in part of a command and still have it function.
 
 ([Click Here](https://langstonian.itch.io/apotheosys)) to see the game
