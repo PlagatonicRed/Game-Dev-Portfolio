@@ -9,7 +9,7 @@
 # Solo Unreal Projects
 
 ## Movement System
-The gifs shown below are from a momentum based movement system that I made in Unreal engine. I've always been a fan of fast paced and fluid movement systems and this led me to creating this. My main focus when making the movement was to allow the player to feel rewarded as they get better and become more accustomed to the different actions they can take. I went about this by allowing the player to build up as much speed as they want, but the faster they are currently moving the more speed is lost when the player messes up. 
+The gifs shown below are from a momentum based movement system that I made in Unreal engine. I've always been a fan of fast paced and fluid movement systems and thus this project was born. My main focus when making the movement was to allow the player to feel rewarded as they get better and become more accustomed to the different actions they can take. I went about this by allowing the player to build up as much speed as they want, but the faster they are currently moving the more speed is lost when the player messes up. 
 ![Sliding-min](https://github.com/PlagatonicRed/Portfolio/assets/144390798/c977faec-f65d-48cb-9e76-0f2324615def)
 ![Dashing_1-min](https://github.com/PlagatonicRed/Portfolio/assets/144390798/a2ee228f-d766-4e90-a3b5-4e04217c484a)
 ![Sliding-min](https://github.com/PlagatonicRed/Portfolio/assets/144390798/d71f71e7-7720-4106-9c65-7139719e48be)
