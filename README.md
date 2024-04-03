@@ -16,7 +16,7 @@ The gifs shown below are from a momentum based movement system that I made in Un
 ![Grappling even further optimized](https://github.com/PlagatonicRed/Portfolio/assets/144390798/bce2f308-d2ca-4ee7-9e80-56f6167091ec)
 
 ## Aim Trainer
-This was my first full project that I made after learning and experimenting with Unreal for about a month prior. I wanted to test myself to see how much I could do on my own in a 24 period, and this aim trainer is what came of said challenge.
+This was my first full project that I made in Unreal. I had been using Unreal for about a month prior to this and I wanted to test myself to see how much I could do on my own in a 24 period, and so I decided to make an aim trainer.
 
 ![Distance](https://github.com/PlagatonicRed/Portfolio/assets/144390798/c52ea8ca-ca65-448c-890b-3f5828c44628)
 ![Speed](https://github.com/PlagatonicRed/Portfolio/assets/144390798/43786bc8-f825-455d-bf09-52558531ee44)
